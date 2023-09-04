@@ -4,28 +4,28 @@
 # Key Achievements
 
 * Implemented various image processing techniques:
-  * -Thresholding
--Gray-level Quantization (Bit-Depth Reduction)
--Sharpening
--Smoothing (Gaussian Smoothing)
--Preserving-Edges Smoothing (Median Smoothing)
--Image Inversion
--Edge Detection (Vertical - Horizontal - Both)
--Contrast Stretching
--Logarithmic Transformation (Darkness Stretching)
--Power Transformation (Lightness Stretching)
--Noise Removal (Mean Filtering)
--Histogram Adjustment
--Erosion (Min Filtering)
--Dilation (Max Filtering)
--Image Adding
--Image subtraction
--Downsampling
--Upsampling
--Gray Scale Conversion
--Showing Histogram
--Showing Bit Plane Slices
--Color Inspection
+  * Thresholding
+  * Gray-level Quantization (Bit-Depth Reduction)
+  * Sharpening
+  * Smoothing (Gaussian Smoothing)
+  * Preserving-Edges Smoothing (Median Smoothing)
+  * Image Inversion
+  * Edge Detection (Vertical - Horizontal - Both)
+  * Contrast Stretching
+  * Logarithmic Transformation (Darkness Stretching)
+  * Power Transformation (Lightness Stretching)
+  * Noise Removal (Mean Filtering)
+  * Histogram Adjustment
+  * Erosion (Min Filtering)
+  * Dilation (Max Filtering)
+  * Image Adding
+  * Image subtraction
+  * Downsampling
+  * Upsampling
+  * Gray Scale Conversion
+  * Showing Histogram
+  * Showing Bit Plane Slices
+  * Color Inspection
 
 
 
