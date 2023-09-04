@@ -5,7 +5,7 @@
 
 * Implemented various image processing techniques:
   * Thresholding
-  * Gray-level Quantization (Bit-Depth Reduction)
+  * Gray-Level Quantization (Bit-Depth Reduction)
   * Sharpening
   * Smoothing (Gaussian Smoothing)
   * Preserving-Edges Smoothing (Median Smoothing)
