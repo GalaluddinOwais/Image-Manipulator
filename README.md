@@ -32,7 +32,7 @@
 * Designed an intuitive user interface to get the image uploaded, specifically analyzed and manipulated, and finally saved
 
 # Requirements
-#### `MATLAB 2012` or later
+#### `MATLAB 2012`
 
 # Execution
 #### locate `DIP.m` and `DIP.fig` and run the following commands:
