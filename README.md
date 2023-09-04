@@ -4,7 +4,7 @@
 # Key Achievements
 
 * Implemented various image processing techniques:
-* * -Thresholding
+  * -Thresholding
 -Gray-level Quantization (Bit-Depth Reduction)
 -Sharpening
 -Smoothing (Gaussian Smoothing)
