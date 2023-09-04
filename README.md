@@ -18,7 +18,7 @@
   * Histogram Adjustment
   * Erosion (Min Filtering)
   * Dilation (Max Filtering)
-  * Image Adding
+  * Image Addition
   * Image subtraction
   * Downsampling
   * Upsampling
