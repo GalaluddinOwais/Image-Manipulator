@@ -35,7 +35,7 @@
 #### `MATLAB 2012` 
 
 # Execution
-# locate `DIP.m` and `DIP.fig` and run the following commands:
+#### locate `DIP.m` and `DIP.fig` and run the following commands:
 ```
 #execute MATLAB
 matlab
@@ -44,9 +44,9 @@ matlab
 run('DIP.m')
 ```
 
-#Demonstration
+# Demonstration
 
-[Google drive link](https://drive.google.com/file/d/1o-NeJYmCfV7XBpzzqY6vD0dBc3iUw-T1/view?usp=share_link)
+#### [Google drive link](https://drive.google.com/file/d/1o-NeJYmCfV7XBpzzqY6vD0dBc3iUw-T1/view?usp=share_link)
 
 
 
