@@ -46,7 +46,7 @@ run('DIP.m')
 
 # Demonstration
 
-#### [Google drive link](https://drive.google.com/file/d/1o-NeJYmCfV7XBpzzqY6vD0dBc3iUw-T1/view?usp=share_link)
+#### [Google drive link](https://drive.google.com/file/d/1b6psFYb4r5hmgDN4h8mWrsoBONrfK2cx/view?usp=sharing)
 
 
 
